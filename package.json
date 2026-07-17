@@ -1,0 +1,28 @@
+{
+  "name": "tic-tac-toe-react",
+  "version": "1.0.0",
+  "description": "the heading says it all.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/User17745/ttt-oc-android.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/User17745/ttt-oc-android/issues"
+  },
+  "homepage": "https://github.com/User17745/ttt-oc-android#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "vite": "^5.4.21"
+  }
+}
